@@ -12,7 +12,7 @@ clear
 # VARS
 # -----
 DBUSER="root"
-DBPASS="dsUWMJ7tva-e#23a!"
+DBPASS="DB Password Goes Here!"
 PGPKEY="PasswordCub3"
 RAMDISK="ramdisk"
 ROOTDIR="/PasswordCub3"
