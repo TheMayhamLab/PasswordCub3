@@ -15,7 +15,7 @@ clear
 # -----
 DBNAME="PasswordCub3"
 DBUSER="root"
-DBPASS="dsUWMJ7tva-e#23a!"
+DBPASS="DB Password Goes Here!"
 GPGFILE="gpg-gen-file.txt"
 PGPKEY="PasswordCub3"
 RAMDISK="ramdisk"
