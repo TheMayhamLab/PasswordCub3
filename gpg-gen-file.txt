@@ -5,7 +5,7 @@ Subkey-Type: ELG-E
 Subkey-Length: 1024
 Name-Real: USER
 Name-Comment: USER
-Name-Email: USER@sikich.com
+Name-Email: USER@sample.com
 Expire-Date: 0
 %ask-passphrase
 %commit
