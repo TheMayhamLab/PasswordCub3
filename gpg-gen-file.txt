@@ -1,0 +1,12 @@
+%echo Generating a basic OpenPGP key
+Key-Type: DSA
+Key-Length: 1024
+Subkey-Type: ELG-E
+Subkey-Length: 1024
+Name-Real: USER
+Name-Comment: USER
+Name-Email: USER@sikich.com
+Expire-Date: 0
+%ask-passphrase
+%commit
+%echo done
