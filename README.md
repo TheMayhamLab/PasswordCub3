@@ -25,7 +25,7 @@ This is the Password Cub3 v 1.0, a password safe built to take advantages of aut
 
 
 For detailed information on how and why this product was designed, check out the DerbyCon talk here:
-https://michaelvieau.com/index.php/training-conferences/
+https://michaelvieau.com/?page_id=29
 
 
 
